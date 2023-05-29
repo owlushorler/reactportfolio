@@ -1,0 +1,107 @@
+.wooo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: aquamarine;
+}
+
+.w{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    color: blue;
+}
+
+.ww{
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    width: 100px;
+    margin: 10px;
+}
+.www{
+    border: none;
+    background-color: darkmagenta;
+    color: white;
+    border-radius: 30px;
+}
+
+.wo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.boo{
+    background-color: chartreuse; 
+    color: crimson;   
+    display: grid ;
+    grid-template-columns: 100px 100px 200px 100px;
+    box-shadow: 10px 10px 0 0 rgb(255, 0, 25);
+    
+    
+
+}
+.bool {
+    background-color: blue; 
+    color: white;   
+    display: grid ;
+    grid-template-columns: 100px 100px 200px 100px;
+    box-shadow: 10px 10px 0 0 rgb(255, 0, 25);
+
+}
+.ll{
+    display: flex;
+    flex-direction: row;
+    margin-left: -350px;
+    border-style: solid;
+    justify-content: space-around;
+    width: 400px;
+    background-color: crimson;
+    color: white;
+
+}
+.loo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: firebrick;
+    color: white;
+    margin: 50px;
+}
+
+.me {
+    background-color: brown;
+    width: 500px;
+    height: 500px;
+    margin: 10px;
+}
+.ty{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: hotpink;
+    margin: 150px;
+}
+.book{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: pink;
+    margin: 100px;
+  
+  
+  }
+  
+  .aaa{
+  background-color:green;
+  color: aqua;
+  margin-left: 40px;
+  margin-bottom:20px ;
+  
+  
+  }
+  
+  
